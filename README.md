@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+Get the latest news from around the world in your hands
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
