@@ -4,6 +4,9 @@ A new Flutter application.
 
 Get the latest news from around the world in your hands
 
+
+Get World News in diffrent categories from the World news API
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
